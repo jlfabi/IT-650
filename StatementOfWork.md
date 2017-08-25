@@ -21,22 +21,22 @@ The Wild Wood Apartments database will allow the corporate headquarters to track
 ## Timelines
 
 1.	Requirements gathering: will require reviewing the current process and interviewing employees in the corporate office and at each location.  
-**Total Time**: 1 week
+**Total Time**: 1 week . 
 **Completed when**: documented the current state and responses from interviews
 2.	Review the current data: will require reviewing the current state of the data to insure it can be converted into the database. Analyze of the current state may dictate the database design. Define the scope of data conversion with the business.
-**Total Time**: 1 week
+**Total Time**: 1 week . 
 **Complete when**: a list of any data exceptions and/or business rules are documented. Agreements with the business as what data, if any, will be converted. 
 3.	Normalization:  Create the data model with entities and relationships normalized.
-**Total Time**: 1 week
+**Total Time**: 1 week . 
 **Completed when**: entity relation diagram is created
 4.	Build the Physical Database: Translate the data model to a RDBMS. All tables, fields and constraints, including primary and foreign keys will be created. 
-**Total Time**: 2 weeks
+**Total Time**: 2 weeks . 
 **Completed when**: Database schema is ready for review
 5.	Testing and Security: Generate test data for testing of reporting and any applications needed for input. Ensure the database is only available to specific users.
-**Total Time**: 2 weeks
+**Total Time**: 2 weeks . 
 **Completed when**: Successful test results are documented.
 6.	Database Installation: clean out any test data and ensure the database configuration is production ready. This will include moving to a production environment and testing all the appropriate connections at each location.
-**Total Time**: 2 weeks
+**Total Time**: 2 weeks . 
 **Completed when**: database is production operational
 
 **Total Time**: 9 weeks
